@@ -1,0 +1,6 @@
+{
+  "appTitle": "appointment_booking_flutter",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
